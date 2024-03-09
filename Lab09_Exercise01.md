@@ -11,27 +11,26 @@ dotnet new console --name Lab09_Ex01
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
 
 ```cs
-Student student1 = new Student();
-student1.Name = "Somchai";
-System.Console.WriteLine($"student1 name = {student1.Name}");
+DerivedClass dcRef = new DerivedClass();
+BaseClass bcRef = new BaseClass();
 
-var student2 = new Student();
-student2.Name = "Sompong";
-System.Console.WriteLine($"student2 name = {student2.Name}");
+dcRef.Info();
+bcRef.Info();
 
-class Person
+class BaseClass
 {
-    private string name = string.Empty;
-    public string Name
+    virtual public void Info()
     {
-        get { return name; }
-        set { name = value; }
+        System.Console.WriteLine("This is BaseClass");
     }
 }
 
-class Student:Person
+class DerivedClass : BaseClass
 {
-
+    override public void Info()
+    {
+        System.Console.WriteLine("This is DerivedClass");
+    }
 }
 ```
 

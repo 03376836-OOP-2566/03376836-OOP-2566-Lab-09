@@ -1,6 +1,6 @@
 # Lab 9 Exercise 2
 
-## 
+## virtual-override methods
 
 1.สร้าง console application project
 
@@ -11,8 +11,27 @@ dotnet new console --name Lab09_Ex02
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
 
 ```cs
+DerivedClass dcRef = new DerivedClass();
+BaseClass bcRef =  (BaseClass) dcRef;
 
+dcRef.Info();
+bcRef.Info();
 
+class BaseClass
+{
+    virtual public void Info()
+    {
+        System.Console.WriteLine("This is BaseClass");
+    }
+}
+
+class DerivedClass : BaseClass
+{
+    override public void Info()
+    {
+        System.Console.WriteLine("This is DerivedClass");
+    }
+}
 ```
 
 3.Build project โดยการใช้คำสั่ง

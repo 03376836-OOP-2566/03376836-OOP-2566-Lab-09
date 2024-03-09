@@ -1,6 +1,7 @@
 # Lab 9 Exercise 3
 
-## 
+## Override overridden Method
+![alt text](./Pictures/image01.png)
 
 1.สร้าง console application project
 
@@ -11,8 +12,33 @@ dotnet new console --name Lab09_Ex03
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
 
 ```cs
+SecondDerivedClass sdRef  = new SecondDerivedClass();
+BaseClass bcRef = (BaseClass) sdRef;
 
+sdRef.Print();
+bcRef.Print();
 
+class BaseClass
+{
+    virtual public void Print()
+    {
+        System.Console.WriteLine("Hello from BaseClass");
+    }
+}
+class DerivedClass : BaseClass
+{
+    override public void Print()
+    {
+       System.Console.WriteLine("Hello from DerivedClass");
+    }
+}
+class SecondDerivedClass : DerivedClass
+{
+    override public void Print()
+    {
+       System.Console.WriteLine("Hello from SecondDerivedClass");
+    }
+}
 ```
 
 3.Build project โดยการใช้คำสั่ง
