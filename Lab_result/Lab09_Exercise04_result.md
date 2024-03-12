@@ -5,7 +5,7 @@
 ![image](https://github.com/Sorawit255/03376836-OOP-2566-Lab-09/assets/144196505/56479e7a-6b17-4375-8a1b-b7271a644aa4)
 
 ## อธิบายสิ่งที่พบในการทดลอง
-### โค้ดนี้เกี่ยวกับ Override overridden Method (เหมือนข้อที่แล้วทุกประการ)
-### บรรทัดที่ 2 `BaseClass bcRef = (BaseClass) sdRef;` จะทำการนำ Obj ของตัวแปร sdRef มาสร้างใหม่เป็น Obj ของคลาส BaseClass แล้วเก็บไว้ในตัวแปร bcRef
-### เมื่อเรียกใช้ sdRef.info() จะแสดง  "Hello from SecondDerivedClass" 
-### เมื่อเรียกใช้ bcRef.info() จะแสดง  "Hello from SecondDerivedClass"  ที่ถูก override ในคลาสลูก (SecondDerivedClass) ทำให้ผลลัพธ์เป็น "Hello from SecondDerivedClass" 
+### โค้ดนี้เกี่ยวกับ Override overridden Method 
+### คล้ายกับข้อก่อนต่างกันตรงที่บรรทัด class SecondDerivedClass : DerivedClass ไม่ได้ทำการ override
+### เมื่อเรียกใช้ sdRef.Print(); จะแสดง "Hello from SecondDerivedClass" 
+### เมื่อเรียดใช้ bcRef.Print(); จะแสดง "Hello from DerivedClass" เนื่องจากมีการ hide เมธอดที่ถูกสืบทอดมาจากคลาสแม่
