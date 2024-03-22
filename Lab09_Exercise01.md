@@ -57,3 +57,5 @@ dotnet run --project Lab09_Ex01
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-09/assets/144197034/d56cac62-8537-4b3b-b394-0e3e89f4071b)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+การทดลองนี้ เราสร้างคลาสชื่อ BaseClass และ DerivedClass โดย DerivedClass ได้สืบทอดจาก BaseClass และมีการโอเวอร์ไรด์เมทอด Info() ซึ่งถูกประกาศเป็นเมทอด virtual ใน BaseClass และ override ใน DerivedClass ในเมทอด Info() ของ BaseClass เรามีการแสดงข้อความ "This is BaseClass" และใน DerivedClass เรามีการแสดงข้อความ "This is DerivedClass" โดยในการทดลอง เราสร้างอ็อบเจกต์ของคลาส DerivedClass และ BaseClass ตามลำดับ และเรียกใช้เมทอด Info() ของทั้งคลาส ซึ่งจะแสดงข้อความที่ถูกโอเวอร์ไรด์ตามคลาสของอ็อบเจกต์ที่ถูกสร้างขึ้น ดังการแสดงผลดังภาพด้านบน
