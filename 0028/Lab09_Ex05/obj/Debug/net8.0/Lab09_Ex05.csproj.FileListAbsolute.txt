@@ -1,0 +1,15 @@
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\bin\Debug\net8.0\Lab09_Ex05.exe
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\bin\Debug\net8.0\Lab09_Ex05.deps.json
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\bin\Debug\net8.0\Lab09_Ex05.runtimeconfig.json
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\bin\Debug\net8.0\Lab09_Ex05.dll
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\bin\Debug\net8.0\Lab09_Ex05.pdb
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\obj\Debug\net8.0\Lab09_Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\obj\Debug\net8.0\Lab09_Ex05.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\obj\Debug\net8.0\Lab09_Ex05.AssemblyInfo.cs
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\obj\Debug\net8.0\Lab09_Ex05.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\obj\Debug\net8.0\Lab09_Ex05.sourcelink.json
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\obj\Debug\net8.0\Lab09_Ex05.dll
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\obj\Debug\net8.0\refint\Lab09_Ex05.dll
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\obj\Debug\net8.0\Lab09_Ex05.pdb
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\obj\Debug\net8.0\Lab09_Ex05.genruntimeconfig.cache
+C:\Users\PC\OneDrive\เดสก์ท็อป\aswerer\03376836-OOP-2566-Lab-09\0028\Lab09_Ex05\obj\Debug\net8.0\ref\Lab09_Ex05.dll
