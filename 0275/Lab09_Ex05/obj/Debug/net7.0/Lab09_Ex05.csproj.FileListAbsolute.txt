@@ -1,0 +1,15 @@
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\bin\Debug\net7.0\Lab09_Ex05.exe
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\bin\Debug\net7.0\Lab09_Ex05.deps.json
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\bin\Debug\net7.0\Lab09_Ex05.runtimeconfig.json
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\bin\Debug\net7.0\Lab09_Ex05.dll
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\bin\Debug\net7.0\Lab09_Ex05.pdb
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.csproj.AssemblyReference.cache
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.GeneratedMSBuildEditorConfig.editorconfig
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.AssemblyInfoInputs.cache
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.AssemblyInfo.cs
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.csproj.CoreCompileInputs.cache
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.dll
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\obj\Debug\net7.0\refint\Lab09_Ex05.dll
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.pdb
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.genruntimeconfig.cache
+E:\65030275\Github\Endegu\OOP_2566\03376836-OOP-2566-Lab-09\0275\Lab09_Ex05\obj\Debug\net7.0\ref\Lab09_Ex05.dll
