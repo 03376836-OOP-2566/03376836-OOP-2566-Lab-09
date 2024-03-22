@@ -65,3 +65,5 @@ dotnet run --project Lab09_Ex04
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-09/assets/144197034/f99e086a-ced0-486a-841b-de1e440d074c)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+การทดลองนี้มีการสร้างอ็อบเจกต์ sdRef จากคลาส SecondDerivedClass และ bcRef จากคลาส BaseClass โดยใช้การแปลงชนิด (casting) sdRef ไปยัง BaseClass ด้วย (BaseClass) sdRef จากนั้นเมื่อเรียกใช้เมธอด Print() ของทั้ง sdRef และ bcRef จะแสดงข้อความ "Hello from SecondDerivedClass" ด้วย เนื่องจากเมธอด Print() ไม่ได้ถูกโอเวอร์ไรด์ในคลาส DerivedClass หรือ BaseClass แต่ถูกนำมาใช้โดยตรงจากคลาส SecondDerivedClass ซึ่งเป็นคลาสที่สืบทอดมาจาก DerivedClass และ BaseClass เราจะเห็นการแสดงผลของคำสั่งออกมาดังภาพด้านบน การบันทึกผลข้อที่ 5
