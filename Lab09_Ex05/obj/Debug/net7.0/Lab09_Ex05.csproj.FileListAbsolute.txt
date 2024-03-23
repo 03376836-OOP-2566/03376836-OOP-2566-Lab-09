@@ -1,0 +1,14 @@
+C:\LAB9\Lab09_Ex05\bin\Debug\net7.0\Lab09_Ex05.exe
+C:\LAB9\Lab09_Ex05\bin\Debug\net7.0\Lab09_Ex05.deps.json
+C:\LAB9\Lab09_Ex05\bin\Debug\net7.0\Lab09_Ex05.runtimeconfig.json
+C:\LAB9\Lab09_Ex05\bin\Debug\net7.0\Lab09_Ex05.dll
+C:\LAB9\Lab09_Ex05\bin\Debug\net7.0\Lab09_Ex05.pdb
+C:\LAB9\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB9\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.AssemblyInfoInputs.cache
+C:\LAB9\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.AssemblyInfo.cs
+C:\LAB9\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.csproj.CoreCompileInputs.cache
+C:\LAB9\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.dll
+C:\LAB9\Lab09_Ex05\obj\Debug\net7.0\refint\Lab09_Ex05.dll
+C:\LAB9\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.pdb
+C:\LAB9\Lab09_Ex05\obj\Debug\net7.0\Lab09_Ex05.genruntimeconfig.cache
+C:\LAB9\Lab09_Ex05\obj\Debug\net7.0\ref\Lab09_Ex05.dll
