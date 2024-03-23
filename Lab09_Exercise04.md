@@ -49,7 +49,8 @@ dotnet build  Lab09_Ex04
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
-
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-09/assets/144195555/262168c8-438c-46ee-bdd3-80c72feef723)
+### สามารถ Build ได้เเละมีการเเจ้งwarning แต่ ไม่ได้ใช้คีย์เวิร์ด override เพื่อระบุว่าเมทอดนั้นกำลังทับเมทอดในคลาสแม่ หรือ BaseClass
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -57,5 +58,9 @@ dotnet run --project Lab09_Ex04
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
-
+![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-09/assets/144195555/eec035be-3ad6-40c7-b20e-8b76d5e0e0fc)
+### สามารถ Run ได้ ปกติ
 7.อธิบายสิ่งที่พบในการทดลอง
+#### โปรแกรมจะแสดงผล
+### Hello from SecondDerivedClass
+### Hello from DerivedClass
