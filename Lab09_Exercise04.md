@@ -50,6 +50,8 @@ dotnet build  Lab09_Ex04
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![4](https://github.com/Siriratda/03376836-OOP-2566-Lab-09/assets/144195995/fd90a501-c11f-441a-84a2-274e970de8bd)
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -58,4 +60,11 @@ dotnet run --project Lab09_Ex04
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![4 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-09/assets/144195995/620ac4ec-cb6d-4bc3-9421-9d2841158a56)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ ปกติ
+โปรแกรมจะแสดงผล
+Hello from SecondDerivedClass
+Hello from DerivedClass
