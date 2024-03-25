@@ -50,6 +50,8 @@ dotnet build  Lab09_Ex05
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="542" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-09/assets/144195963/b7ddc09f-7a5f-4c57-935e-c011c8751194">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -58,4 +60,9 @@ dotnet run --project Lab09_Ex05
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="431" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-09/assets/144195963/7b5f43fd-196e-40c4-b2ee-a3a58c19acde">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+Hello from SecondDerivedClass
+Hello from DerivedClass

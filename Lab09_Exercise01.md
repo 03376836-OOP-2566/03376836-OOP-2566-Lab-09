@@ -44,6 +44,8 @@ dotnet build  Lab09_Ex01
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="545" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-09/assets/144195963/72cebac7-92a5-465d-b601-aafc45a7429f">
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -52,4 +54,9 @@ dotnet run --project Lab09_Ex01
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="408" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-09/assets/144195963/54c344e4-9a98-4be2-904a-4c83673b59da">
+
 7.อธิบายสิ่งที่พบในการทดลอง
+โปรแกรมจะแสดงผล
+This is DerivedClass
+This is BaseClass
