@@ -44,6 +44,8 @@ dotnet build  Lab09_Ex01
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![1](https://github.com/Siriratda/03376836-OOP-2566-Lab-09/assets/144195995/0c3081f9-180e-4723-bed7-638073e390fc)
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -52,4 +54,11 @@ dotnet run --project Lab09_Ex01
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![1 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-09/assets/144195995/28ac4704-213f-4ccc-8e6c-1e5b4428943c)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ เพราะ Info ถูกประกาศเป็น virtual สามารถถูก override ได้ในคลาสที่สืบทอด
+โปรแกรมจะแสดงผล
+This is DerivedClass
+This is BaseClass
