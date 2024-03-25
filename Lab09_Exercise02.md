@@ -44,6 +44,8 @@ dotnet build  Lab09_Ex02
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![2](https://github.com/Siriratda/03376836-OOP-2566-Lab-09/assets/144195995/a13030c6-0235-49d0-9320-3504b3e7caab)
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -52,4 +54,11 @@ dotnet run --project Lab09_Ex02
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![2 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-09/assets/144195995/6c923e77-1efc-4292-9884-8c87ac02d36e)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ เพราะ dcRef.Info() จะเรียกใช้เมทอด Info() จากคลาสที่สืบทอด (DerivedClass) และ bcRef.Info() จะเรียกใช้เมทอด Info() จากคลาสฐาน (BaseClass)
+โปรแกรมจะแสดงผล
+This is DerivedClass
+This is DerivedClass
