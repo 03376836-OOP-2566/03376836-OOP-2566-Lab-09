@@ -1,0 +1,15 @@
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/bin/Debug/net8.0/Lab09_Ex03
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/bin/Debug/net8.0/Lab09_Ex03.deps.json
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/bin/Debug/net8.0/Lab09_Ex03.runtimeconfig.json
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/bin/Debug/net8.0/Lab09_Ex03.dll
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/bin/Debug/net8.0/Lab09_Ex03.pdb
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/obj/Debug/net8.0/Lab09_Ex03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/obj/Debug/net8.0/Lab09_Ex03.AssemblyInfoInputs.cache
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/obj/Debug/net8.0/Lab09_Ex03.AssemblyInfo.cs
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/obj/Debug/net8.0/Lab09_Ex03.csproj.CoreCompileInputs.cache
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/obj/Debug/net8.0/Lab09_Ex03.sourcelink.json
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/obj/Debug/net8.0/Lab09_Ex03.dll
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/obj/Debug/net8.0/refint/Lab09_Ex03.dll
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/obj/Debug/net8.0/Lab09_Ex03.pdb
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/obj/Debug/net8.0/Lab09_Ex03.genruntimeconfig.cache
+/Users/omelaweng/Desktop/03376836-OOP-2566-Lab-09/Lab09_Ex03/obj/Debug/net8.0/ref/Lab09_Ex03.dll
